@@ -1,14 +1,14 @@
-*Name:*BHUVANESHWARAN MANOKARAN
+**Name**:BHUVANESHWARAN MANOKARAN
 
-*Company:*CODTECH IT SOLUTIONS
+**Company**:CODTECH IT SOLUTIONS
 
-*Id:*CT08DS59469
+**Id**:CT08DS59469
 
-*Domain:*DATA ANALYTICS
+**Domain**:DATA ANALYTICS
 
-*Duration:*Oct to Nov 2024
+**Duration**:Oct to Nov 2024
 
-*Mentor:*NEELA SANTHOSH KUMAR
+**Mentor**:NEELA SANTHOSH KUMAR
 
 ##Overview of the project
 
@@ -20,17 +20,17 @@ The Objective of the project is to perform Predictive Modelling with Linear Regr
 
 ##Technologies Used
 
-*Python
+Python
 
-*Numpy
+Numpy
 
-*Pandas
+Pandas
 
-*Matplotlib
+Matplotlib
 
-*Seaborn
+Seaborn
 
-*Jupyter Notebook
+Jupyter Notebook
 
 ![image](https://github.com/user-attachments/assets/25e2ce9c-6416-402e-a524-567d83ac09a9)
 
